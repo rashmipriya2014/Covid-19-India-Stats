@@ -1,0 +1,43 @@
+.table_wrp {
+	font-size: 13px;
+	border: 2px solid #dddddd;
+}
+thead.main_table {
+    background: #084188;
+    color: #fff;
+    font-size: 13px;
+	white-space: nowrap;
+    text-transform: uppercase;
+}
+tr.table_sub {
+	background: #569933 !important;
+	color: #fff;
+}
+tr.total_confirm {
+	background: #ecdb9b !important;
+	color: #985808;
+	font-weight: bold;
+}
+.btn_show {
+    color: #fff;
+    background-color: #031b38;
+    border: unset;
+}
+thead.age_cat_thd {
+    background: #063167;
+    color: #fff;
+	font-size: 13px;
+    white-space: nowrap;
+}
+td.age_cat {
+    background: #ecdb9b;
+    color: #ae5808; 
+    font-size: 13px;
+    text-transform: capitalize;
+}
+.heading_main {
+    background: #181873;
+    color: #fff;
+    padding: 2px;
+    margin: 0 0 2% 0;
+}
