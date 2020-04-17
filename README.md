@@ -6,7 +6,7 @@ API integration on laravel which  were available for the covid 19
 ## Requirement
 Composer must be installed
 
-Internet show be active.
+Internet should be active.
 
 
 ## Installation
